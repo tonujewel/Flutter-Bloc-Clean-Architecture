@@ -1,4 +1,4 @@
-# flutter_bloc_clean_ar
+# Flutter Bloc Clean Architecture
 
 A new Flutter project.
 
